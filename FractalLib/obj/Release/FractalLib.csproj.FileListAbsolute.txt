@@ -1,0 +1,12 @@
+D:\Projects\C#\Kara_79\FractalLib\bin\Release\FractalLib.dll
+D:\Projects\C#\Kara_79\FractalLib\bin\Release\FractalLib.pdb
+D:\Projects\C#\Kara_79\FractalLib\obj\Release\FractalLib.csprojAssemblyReference.cache
+D:\Projects\C#\Kara_79\FractalLib\obj\Release\FractalLib.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Kara_79\FractalLib\obj\Release\FractalLib.dll
+D:\Projects\C#\Kara_79\FractalLib\obj\Release\FractalLib.pdb
+D:\Projects\C#\module_2\Kara_79\FractalLib\bin\Release\FractalLib.dll
+D:\Projects\C#\module_2\Kara_79\FractalLib\bin\Release\FractalLib.pdb
+D:\Projects\C#\module_2\Kara_79\FractalLib\obj\Release\FractalLib.csprojAssemblyReference.cache
+D:\Projects\C#\module_2\Kara_79\FractalLib\obj\Release\FractalLib.csproj.CoreCompileInputs.cache
+D:\Projects\C#\module_2\Kara_79\FractalLib\obj\Release\FractalLib.dll
+D:\Projects\C#\module_2\Kara_79\FractalLib\obj\Release\FractalLib.pdb

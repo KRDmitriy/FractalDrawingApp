@@ -1,0 +1,5 @@
+D:\Projects\C#\Kara_79\FractalLib\bin\Debug\FractalLib.dll
+D:\Projects\C#\Kara_79\FractalLib\bin\Debug\FractalLib.pdb
+D:\Projects\C#\Kara_79\FractalLib\obj\Debug\FractalLib.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Kara_79\FractalLib\obj\Debug\FractalLib.dll
+D:\Projects\C#\Kara_79\FractalLib\obj\Debug\FractalLib.pdb
